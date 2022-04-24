@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Playtest/Main Menu.unity
+    guid: 3f62642d2c0f03947a150c9d66a9d193
+  - enabled: 1
+    path: Assets/Playtest/Premise.unity
+    guid: a3acc6a4cceb9b54199109edadee8de3
+  - enabled: 1
+    path: Assets/Playtest/Elise Scene.unity
+    guid: 2d32179b230952047bd7e45575ee97d3
+  - enabled: 1
+    path: Assets/Playtest/Controls.unity
+    guid: f05984716c3140a4999bcddeb4650860
+  - enabled: 1
+    path: Assets/Playtest/Win Scene.unity
+    guid: 3ce4aca0e3bcee34598f02a4e0036e5c
+  - enabled: 0
+    path: Assets/Scenes/xaviers/Level1.unity
+    guid: c7a7fe9bcab66b647ae87194b8135752
+  m_configObjects: {}
